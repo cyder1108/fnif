@@ -1,0 +1,15 @@
+{
+  "name": "fnif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ava": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "author": "",
+  "license": "ISC"
+}
