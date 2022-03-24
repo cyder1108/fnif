@@ -1,9 +1,6 @@
 class FnIf {
 
   constructor() {
-    this.lastSyntax = "if"
-    this.lastCondition = void 0;
-    this.didEnd = false;
     this.rules = [];
   }
 
